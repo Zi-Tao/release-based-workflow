@@ -24,5 +24,34 @@ For more  [HTML5 Game Development](http://www.html5gamedevelopment.org) resource
 
  https://zi-tao.github.io/release-based-workflow/
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Create a release based workflow
 
+Step 1: [Create a beta release](https://github.com/Zi-Tao/release-based-workflow/issues/1)
+
+Step 2: [Create a project board](https://github.com/Zi-Tao/release-based-workflow/issues/2)
+
+Step 3: [Triage issues in a project](https://github.com/Zi-Tao/release-based-workflow/issues/2)
+
+Step 4: [Add a new feature on the release branch](https://github.com/Zi-Tao/release-based-workflow/issues/3)
+
+Step 5: [Merge the new feature to the release branch](https://github.com/Zi-Tao/release-based-workflow/pull/4)
+
+Step 6: [Open a release pull request](https://github.com/Zi-Tao/release-based-workflow/issues/5)
+
+Step 7: [Approve changes for the next release](https://github.com/Zi-Tao/release-based-workflow/pull/7)
+
+Step 8: [Install and configure a GitHub app](https://github.com/Zi-Tao/release-based-workflow/pull/6)
+
+Step 9: [Merge the config for Release Drafter](https://github.com/Zi-Tao/release-based-workflow/pull/8)
+
+Step 10: [Merge the release branch](https://github.com/Zi-Tao/release-based-workflow/pull/6)
+
+Step 11: [Finalize the release](https://github.com/Zi-Tao/release-based-workflow/issues/9)
+
+Step 12: [Approve a hotfix pull request](https://github.com/Zi-Tao/release-based-workflow/pull/10)
+
+Step 13: [Approve the backport pull request](https://github.com/Zi-Tao/release-based-workflow/pull/11)
+
+Step 14: [Create release v1.0.1](https://github.com/Zi-Tao/release-based-workflow/issues/12)
